@@ -67,11 +67,11 @@ a {
 
 @media (min-width: 1200px) {
     body {
-        background-image: url('../background.webp');
+        background-image: url('https://raw.githubusercontent.com/felixbread/felixbread.github.io/main/background.webp');
     }
 }
 @media (max-width: 1200px) {
     body {
-        background-image: url('../background.webp');
+        background-image: url('https://raw.githubusercontent.com/felixbread/felixbread.github.io/main/background.webp');
     }
 }
